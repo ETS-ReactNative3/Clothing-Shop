@@ -128,7 +128,7 @@ export const PRODUCTS = [
   new Product(
     ["c2"],
     "CAMISETA BLANCA PARA CABALLERO",
-    149.90,
+    148.90,
     "https://i0.wp.com/imperiamind.com/wp-content/uploads/2021/02/PLAYERA-BLANCA-HOMBRE.jpg?fit=510%2C600&ssl=1",
     `CAMISETA BLANCA PARA CABALLERO :
     - 100% ALGODÓN / COTTON
